@@ -1,0 +1,3 @@
+/mnt/c/Users/Katya/Desktop/МАИ/OSI$
+g++ child.cpp -o child
+g++ parent.cpp -o parent
